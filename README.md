@@ -14,6 +14,6 @@
 ## 💻 Tech Backpack  
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,ts,npm,vscode,php,laravel,mysql,firebase,git,github,vercel,gcp,python,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,ts,npm,vscode,php,laravel,mysql,firebase,git,powershell,github,vercel,gcp,python,unity,figma,notion" />
 </p>
 
