@@ -1,6 +1,7 @@
 ## Hello👋, It's me Raisyal!
 
-![GIF](https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif)
+<img src="https://media.giphy.com/media/zHO316FmyqmZi/giphy.gif" width="250">
+
 
 🔭 Currently working on my projects & improving my skills.  
 🎓 Undergraduate student at Information Technology and Systems Education at Indonesia University of Education. 
